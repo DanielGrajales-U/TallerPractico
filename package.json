@@ -1,0 +1,23 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "description": "'practicando lo aprendido'",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGrajales-U/TallerPractico.git"
+  },
+  "author": "Daniel Grajales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGrajales-U/TallerPractico/issues"
+  },
+  "homepage": "https://github.com/DanielGrajales-U/TallerPractico#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
